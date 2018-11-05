@@ -70,8 +70,6 @@ body {
 }
 
 .play {
-	display: block;
-	margin: 0 auto;
-	margin-left: 49%;
 	margin-top: 16px;
+	text-align: center;
 }
