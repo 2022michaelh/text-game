@@ -60,3 +60,18 @@ body {
 	margin: auto;
 	margin-top: 18%;
 }
+
+.intro {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10%;
+	width: 50%;
+}
+
+.play {
+	display: block;
+	margin: 0 auto;
+	margin-left: 49%;
+	margin-top: 16px;
+}
