@@ -58,7 +58,7 @@ body {
 .credits {
 	display: block;
 	margin: auto;
-	margin-top: 18%;
+	margin-top: 5%;
 }
 
 .intro {
@@ -76,4 +76,9 @@ body {
 
 .delay-custom {
 	animation-delay: .3s;	
+}
+
+.vl {
+	border-left: solid 2px white;
+	height: 250px;	
 }
